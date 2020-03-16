@@ -1,0 +1,12 @@
+.arrow {
+    display: inline;
+    font-size: 1.3em;
+}
+
+.arrow.up {
+    color: green;
+}
+
+.arrow.down {
+    color: red;
+}
